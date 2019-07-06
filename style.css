@@ -1,0 +1,298 @@
+.fa-envelope:before,.fa-phone:before {
+  border: 1px solid white;
+      border-radius: 25px;
+    content: "\f0e0";
+    padding: 3%;
+    margin: 14%;
+}
+.navbtn{
+      background: #03A9F4;
+    width: 15%;
+    border-radius: 0px;
+    margin: 0 5%0 0%;
+}
+.introbtn{
+  background: #03A9F4;
+    width: 35%;
+    border-radius: 0px;
+}
+.introbtnbaa{
+  width: 60%;
+  background: #03A9F4;
+    border-radius: 0px;
+}
+.introbg{
+  text-align: center;
+  background: url("images/slide_bg1.jpg");
+  background-size: cover;
+}
+.introbg h1,.introbg p{
+  width: 100%;
+  color: white;
+}
+.introbg h1{
+  font-size: 60px;
+}
+.introcontent{
+ width: 100%;
+  background: #0000008f;
+  padding: 13%;
+}
+.introcol{
+  background:  #217ff3;
+  padding:3%;
+}
+.introcol1{
+  background:  #2196f3;
+  padding: 3%;
+}
+.fa-heartbeat:before,.fa-file-text-o:before,.fa-clock-o:before{
+  color: white;
+}
+.introcol h5,.introcol h4,.introcol h6,.introcol1 h5,.introcol1 h4{
+  color: white;
+}
+.introrow{
+      margin-top: -100px;
+}
+.aboutus{
+  text-align: center;
+      padding: 10%;
+}
+.aboutus h4,.aboutus p{
+  width: 100%;
+}
+.aboutus p{
+  text-align:center;
+}
+.department{
+  text-align: center;
+  border:1px solid #808080d1;
+      padding: 2%;
+      margin-bottom: 2%;
+}
+.department img{
+      border-radius: 100px;
+    border: 1px solid blue;
+    margin-bottom: 8%;
+}
+.department p{
+  color: #808080d1;
+}
+.department a{
+  color: blue;
+}
+.whychoosemed{
+  background: url("images/why_choose_area_bg.jpg");
+  background-size: cover;
+  padding-top: 8%;
+  padding-bottom: 8%;
+}
+.whychoosemed h4{
+  width: 100%;
+  text-align: center;
+}
+.whychoosemedcol{
+  margin-top: 15%;
+}
+.whychoosemedpara h5{
+  color:blue
+}
+.whychoosemedpara p{
+  color: #808080d1;
+}
+.whychoosemedlogo{
+  color: blue;
+  border: 1px solid gray;
+    border-radius: 75%;
+}
+.factcol{
+      text-align: center;
+    color: white;
+    background: url("images/fact_bg.jpg");
+        padding: 5% 0 5% 0;
+}
+.womoption{
+  color: black;
+  padding: 2%;
+}
+.womoption:hover{
+  color: white;
+  background-color: blue;
+  text-decoration: none;
+}
+.womoptionrow{
+  text-align: center;
+}
+.womimages{
+  width: 100%;
+}
+.womimagescol{
+  padding:0px;
+}
+.maasideimage{
+  width: 100%;
+  height: 100%;
+  border-bottom-right-radius:50%;
+  border-top-right-radius: 50%;
+}
+.maacol{
+  text-align:center;
+  background:url("images/appoinment_form_bg.jpg");
+  background-size: cover;
+  padding:0px;
+}
+.maacol input{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #cac1c1;
+  width: 49%;
+      background: none;
+    margin-bottom: 8%;
+}
+.maacol textarea{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #cac1c1;
+  width: 100%;
+      background: none;
+    margin-bottom: 8%;
+}
+.maacol form{
+      background:#ffffffad;
+    width: 100%;
+    padding: 16%;
+}
+.maasidecol{
+  padding: 0px;
+}
+.maarow{
+  margin-top: 5%;
+}
+.domcol{
+  text-align: center;
+}
+.domcol img{
+  border: 1px solid #2175f3;
+}
+.domcol i{
+  color: white;
+  background: #2175f3;
+  padding: 2%;
+  border-radius: 50%;
+}
+.tomcol p{
+  border: 1px solid #2175f3;
+      padding: 7%;
+      color:gray;
+}
+.tomcol{
+  text-align: center;
+}
+.tomcol img{
+  border: 1px solid #2175f3;
+  border-radius: 50%;
+      margin-top: -40px;
+}
+.tomcolblue p{
+  background: #2175f3;
+  color: white;
+      padding: 10%;
+}
+.ppcol{
+  border: 1px solid #2175f3;
+  padding: 0px;
+      padding-top: 1%;
+    padding-bottom: 5%;
+      text-align: center;
+}
+.ppbanner1{
+  font-weight: bold;
+    font-size: 25px;
+    color: white;
+}
+.ppbanner2{
+  font-size: 10px;
+  color: white;
+}
+.ppcol p{
+  background-color: #2175f3;
+  padding: 2%;
+}
+.ppcol button{
+  padding: 4%;
+  border-radius: 0px;
+  padding-left:10%;
+  padding-right: 10%;
+}
+.ppbuttonblack{
+  background: black;
+  border:2px solid black;
+}
+.cwmcol1{
+  background: #2175f3;
+      padding: 10%;
+}
+.cwmcol1 h6,.cwmcol1 span{
+  color: white;
+}
+.cwmcol2{
+  text-align: center;
+  background: url("images/vt.png");
+      padding: 17%;
+}
+.cwmcol2 span{
+  color:  #2175f3;
+  border:1px solid  #2175f3;
+}
+.sendmss{
+  text-align: center;
+  margin-top: 5%;
+}
+.sendmss p{
+  color: gray;
+}
+.sendmss input{
+  width: 40%;
+  color: black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.sendmss textarea{
+  width: 80%;
+  color: black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.sendmss button{
+  border-radius: 0px;
+ padding: 0 2% 0 2%;
+ margin: 5% 0 5% 0;
+}
+.footrow1{
+  background: #2175f3;
+  text-align: center;
+}
+.footrow1 i{
+  padding: 3%;
+  color: white;
+}
+.footrow2 i{
+  color: white;
+  background: #2175f3;
+  padding: 1%;
+  border-radius: 50%;
+}
+.footrow2{
+  background: #8080801f;
+  text-align: center;
+  padding:3%;
+  border-bottom: 1px solid gray;
+}
+.footrow2 img{
+      margin-bottom: 3%;
+}
